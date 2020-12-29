@@ -30,9 +30,9 @@ paginate = 5
         name = "Start"
         url = "/"
       [[languages.en.menu.main]]
-        identifier = "Fahrplan"
-        name = "Fahrplan"
-        url = "https://pretalx.rc3.studio/rc3-channels-2020/schedule/"
+        identifier = "Twitter"
+        name = "@wikipaka (Twitter)"
+        url = "https://twitter.com/wikipaka"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "Über Wikipaka"
