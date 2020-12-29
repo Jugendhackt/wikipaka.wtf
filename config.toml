@@ -1,0 +1,39 @@
+baseurl = "/"
+languageCode = "de"
+theme = "terminal"
+paginate = 5
+
+[params]
+  contentTypeName = "post"
+  themeColor = "blue"
+  showMenuItems = 5
+  fullWidthTheme = false
+  centerTheme = false
+
+[languages]
+   [languages.en]
+    title = "Wikipaka @ rc3"
+    subtitle = "Die Wikipaka-WG mit angeschlossener Television- und Fernstreamanstalt"
+    keywords = ""
+    copyright = ""
+    menuMore = "mehr…"
+    readMore = "mehr…"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "Wikipaka @ rc3"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "start"
+        name = "Start"
+        url = "/"
+      [[languages.en.menu.main]]
+        identifier = "Fahrplan"
+        name = "Fahrplan"
+        url = "https://pretalx.rc3.studio/rc3-channels-2020/schedule/"
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "Über Wikipaka"
+        url = "/about"
