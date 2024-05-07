@@ -12,7 +12,7 @@ Jugend hackt, das sind
 
 sowie
 
-* [Verschwörhaus](https://verschwoerhaus.de)
+* [temporärhaus](https://temporaerhaus.de)
 * [Verstehbahnhof](https://verstehbahnhof.de)
 * [Wikimedia Deutschland e.V.](https://wikimedia.de)
 
@@ -20,6 +20,6 @@ In Wirklichkeit sind es natürlich viel mehr (TODO FIXME)
 
 Verantwortlich für diese Seite:
 
-Verschwörhaus e.V., vertreten durch Sabine Wieluch und Matthias Schneider  
-Weinhof 9  
+temporärhaus e.V.
+Eberhardtstr. 43
 89073 Ulm
