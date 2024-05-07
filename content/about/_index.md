@@ -20,6 +20,6 @@ In Wirklichkeit sind es natürlich viel mehr (TODO FIXME)
 
 Verantwortlich für diese Seite:
 
-temporärhaus e.V.
-Eberhardtstr. 43
+temporärhaus e.V.  
+Eberhardtstr. 43  
 89073 Ulm
