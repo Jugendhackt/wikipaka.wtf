@@ -12,8 +12,8 @@ paginate = 5
 
 [languages]
    [languages.en]
-    title = "Wikipaka @ rc3"
-    subtitle = "Die Wikipaka-WG mit angeschlossener Television- und Fernstreamanstalt"
+    title = "Wikipaka @ 40C3"
+    subtitle = "Die Wikipaka-WG, viellaucht auch wieder mit angeschlossener Television- und Fernstreamanstalt"
     keywords = ""
     copyright = ""
     menuMore = "mehr…"
@@ -21,7 +21,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Wikipaka @ rc3"
+      logoText = "Wikipaka @ 40C3"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -29,10 +29,10 @@ paginate = 5
         identifier = "start"
         name = "Start"
         url = "/"
-      [[languages.en.menu.main]]
-        identifier = "Twitter"
-        name = "@wikipaka (Twitter)"
-        url = "https://twitter.com/wikipaka"
+#      [[languages.en.menu.main]]
+#        identifier = "Twitter"
+#        name = "@wikipaka (Twitter)"
+#        url = "https://twitter.com/wikipaka"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "Über Wikipaka"
