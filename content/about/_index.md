@@ -32,6 +32,8 @@ Offiziell keine Wikipaka-WG, aber die Beteiligten waren trotzdem in Hamburg!
 
 ## 36C3: Leipzig 2019
 
+{{< figure src="/static/img/Bühne_der_Wikipaka-WG.jpeg" caption="Blick von der Übersetzungskabine (wir waren Ausbildungsbetrieb für VOC und Übersetzung!) auf die Bühne. -stk, <a href="https://commons.wikimedia.org/wiki/File:Bühne_der_Wikipaka-WG.jpeg">Bühne der Wikipaka-WG</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-SA 4.0</a> " >}}
+
 * [Aufzeichnungen der Wikipaka-WG-Bühne](https://media.ccc.de/c/36c3/WikiPakaWG) (media.ccc.de)
 * [Commons-Kategorie](https://commons.wikimedia.org/wiki/Category:WikiPaka-WG_at_36C3)
 * [Seite im Congress-Wiki](https://events.ccc.de/congress/2019/wiki/index.php/Assembly:WikipakaWG)
