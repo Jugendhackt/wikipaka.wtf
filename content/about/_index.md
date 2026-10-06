@@ -15,7 +15,7 @@ Fast-ganz-wieder-Wikipaka: Viele Menschen von… C wie Code for Germany über t 
 
 ## 38C3: CCH Hamburg 2024
 
-{{< figure src="/img/Garderobenfoyer_at_38C3_2024-12-29_21.jpg" caption="Links OpenStreetMap, rechts die Wikiprojekte, hinter uns interaktive Exponate des temporärhaus. Tagsüber waren hier viele Leute, dieses Foto wurde früh morgens aufgenommen. [Leonhard Lenz:](https://commons.wikimedia.org/wiki/User:GPSLeo) [\"Garderobenfoyer at 38C3 2024-12-29 21"](https://commons.wikimedia.org/wiki/File:Garderobenfoyer_at_38C3_2024-12-29_21.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode)." >}}
+{{< figure src="/img/Garderobenfoyer_at_38C3_2024-12-29_21.jpg" caption="Links OpenStreetMap, rechts die Wikiprojekte, hinter uns interaktive Exponate des temporärhaus. Tagsüber waren hier viele Leute, dieses Foto wurde früh morgens aufgenommen. [Leonhard Lenz:](https://commons.wikimedia.org/wiki/User:GPSLeo) [\"Garderobenfoyer at 38C3 2024-12-29 21\"](https://commons.wikimedia.org/wiki/File:Garderobenfoyer_at_38C3_2024-12-29_21.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode)." >}}
 
 Offiziell keine Wikipaka-WG, aber die Beteiligten waren trotzdem in Hamburg!
 
