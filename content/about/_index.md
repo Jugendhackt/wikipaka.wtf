@@ -3,7 +3,7 @@ title = "Wikipaka"
 date = "2026-09-26"
 +++
 
-Wikipaka ist ~~~eine Assembly~~~ ein Habitat, das von 2017–2019 in Leipzig und 2020 beim rc3 gemeinsam von mehreren Gruppen und Projekten rund um das Themenfeld von Freiem Wissen und damit verbundener Jugendarbeit betrieben wurde. Dann hatten wir eine Selbstfindungsphase und vielleicht auch -krise **und jetzt zum 40C3 sind wir wieder zurück unter unserem Namen HURRA**
+Wikipaka ist ~~eine Assembly~~ ein Habitat, das von 2017–2019 in Leipzig und 2020 beim rc3 gemeinsam von mehreren Gruppen und Projekten rund um das Themenfeld von Freiem Wissen und damit verbundener Jugendarbeit betrieben wurde. Dann hatten wir eine Selbstfindungsphase und vielleicht auch -krise **und jetzt zum 40C3 sind wir wieder zurück unter unserem Namen.**
 
 # Was bisher geschah
 
@@ -11,7 +11,7 @@ Wikipaka ist ~~~eine Assembly~~~ ein Habitat, das von 2017–2019 in Leipzig und
 
 {{< figure src="/img/Free_Knowledge_Habitat_at_39C3_2025-12-28_05.jpg" caption="Wieder als eigenes Habitat zwischen Exponaten und Stickmaschine aus dem Temporärhaus, Anlaufstelle für die Wikiprojekte und endlich wieder (kleiner) Bühne! (Das ist um 06:22 aufgenommen) [Leonhard Lenz:](https://commons.wikimedia.org/wiki/User:GPSLeo) [\"Free Knowledge Habitat at 39C3 2025-12-28 05\"](https://commons.wikimedia.org/wiki/File:Free_Knowledge_Habitat_at_39C3_2025-12-28_05.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)" >}}
 
-Fast-ganz-wieder-Wikipaka: Viele Menschen von… C wie Code for Germany über t wie temporärhaus bis W wie Wikimedia haben das Open-Knowledge-Habitat bespielt. Das dann irgendwann aber eh von allen „Wikipaka“ genannt wurde, wie sich im Lauf der Veranstaltung herausstellte.
+Fast-ganz-wieder-Wikipaka: Viele Menschen von… C wie Code for Germany über t wie temporärhaus bis W wie Wikimedia haben das Free-Knowledge-Habitat bespielt. Das dann irgendwann aber eh von allen „Wikipaka“ genannt wurde, wie sich im Lauf der Veranstaltung herausstellte.
 
 ## 38C3: CCH Hamburg 2024
 
