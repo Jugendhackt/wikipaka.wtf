@@ -1,0 +1,65 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Jersey 10", "Hack", monospace;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.05;
+}
+
+.content h1 {
+  margin: 0 0 12px;
+  color: var(--color-primary);
+  font-size: 3.5rem;
+  text-wrap: balance;
+}
+
+.content h2 {
+  margin-top: 0;
+  color: var(--color-additional-06);
+  font-size: 2.35rem;
+  text-wrap: balance;
+}
+
+.content .index-content > p:first-child:has(> img) {
+  margin: 30px 0 36px;
+  padding: 14px;
+  border-left: 6px solid var(--color-additional-01);
+  background: var(--color-neutral);
+}
+
+.content .index-content > p:first-child img {
+  width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration-color: var(--color-additional-01);
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  color: var(--color-additional-07);
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--color-additional-07);
+  outline-offset: 3px;
+}
+
+code,
+kbd,
+.post-title,
+.post-meta,
+th {
+  color: var(--color-primary);
+}
+
+figure figcaption {
+  background: var(--color-additional-01);
+  color: var(--color-dark);
+}
