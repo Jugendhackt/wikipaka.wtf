@@ -1,0 +1,35 @@
+.header__logo:after {
+  background: repeating-linear-gradient(
+    90deg,
+    var(--color-primary),
+    var(--color-primary) 2px,
+    transparent 2px,
+    transparent 10px
+  );
+}
+
+.logo {
+  padding: 4px 12px 2px;
+  background: var(--color-primary);
+  color: var(--color-dark);
+  font-family: "Jersey 10", "Hack", monospace;
+  font-size: 1.7rem;
+  line-height: 1.1;
+}
+
+.header .menu a {
+  text-decoration-color: transparent;
+  text-underline-offset: 5px;
+  transition: color 140ms ease, text-decoration-color 140ms ease;
+}
+
+.header .menu a:hover,
+.header .menu a:focus-visible {
+  color: var(--color-additional-07);
+  text-decoration: underline;
+  text-decoration-color: currentColor;
+}
+
+.header .menu-trigger {
+  color: var(--color-primary);
+}
